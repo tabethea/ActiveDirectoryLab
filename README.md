@@ -27,7 +27,7 @@ This repository contains a step by step walkthrough of how i created an Active D
 [Windows 11](https://www.microsoft.com/software-download/windows11)
 
 ## Configured the first VM
-First I configured the VM and named it "Domain Controller." Then I added two network adapters to the Domain Controller. One for the internet and one for for my VirtualBox internal network.
+First I configured the VM and named it "Domain Controller." Then I added two network adapters to the Domain Controller. One for the internet and one for my VirtualBox internal network.
 
 ![image](https://github.com/user-attachments/assets/5eb4222d-0802-451b-b2e1-25a94f63e31a)
 ![image](https://github.com/user-attachments/assets/0df38c4d-fb87-4d01-814d-46a85e914d4a)
