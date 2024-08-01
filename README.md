@@ -65,7 +65,7 @@ VM restarted so I logged in again, created an organizational unit named "ADMINS,
 ![image](https://github.com/user-attachments/assets/dabf4774-8cbb-4831-ae8f-53b50501162f)
 
 ## Logged in with new domain admin account
-![image](https://github.com/user-attachments/assets/5b85320c-e5aa-4c8c-a1f5-e095dc2f6edd))
+![image](https://github.com/user-attachments/assets/5b85320c-e5aa-4c8c-a1f5-e095dc2f6edd)
 
 ##  Installed RAS/NAT on the domain controller
 This allows Client 1 to acess the internet through the domain controller
@@ -77,7 +77,6 @@ This allows Client 1 to acess the internet through the domain controller
 
 ##  Configured DHCP on the domain controller
 Allows for Client 1 to recieve an IP address to browse the internet while in an internal network. Scope ranges from 172.16.0.100-200
-![image](https://github.com/user-attachments/assets/4b840be7-c633-4168-9ac5-9ecfb589c437)
 ![image](https://github.com/user-attachments/assets/4b840be7-c633-4168-9ac5-9ecfb589c437)
 ![Screenshot 2024-07-31 172154](https://github.com/user-attachments/assets/15c9a998-088e-4c9f-a4c0-82e1f5d80258)
 ![image](https://github.com/user-attachments/assets/1785852e-d388-4178-8882-154ecdbe3984)
