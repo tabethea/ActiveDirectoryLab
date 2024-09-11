@@ -77,7 +77,6 @@ This allows Client 1 to acess the internet through the domain controller
 
 ##  Configured DHCP on the domain controller
 Allows for Client 1 to recieve an IP address to browse the internet while in an internal network. Scope ranges from 172.16.0.100-200
-![image](https://github.com/user-attachments/assets/4b840be7-c633-4168-9ac5-9ecfb589c437)
 ![Screenshot 2024-07-31 172154](https://github.com/user-attachments/assets/15c9a998-088e-4c9f-a4c0-82e1f5d80258)
 ![image](https://github.com/user-attachments/assets/1785852e-d388-4178-8882-154ecdbe3984)
 ![image](https://github.com/user-attachments/assets/86d34af2-51f7-4462-b841-b6a2921699ec)
