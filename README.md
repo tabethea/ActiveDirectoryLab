@@ -21,7 +21,7 @@ This repository contains a step by step walkthrough of how i created an Active D
 [Oracle Virtual Box](https://www.virtualbox.org/)
 
 ## Downloaded Server 2022 ISO file
-[Server 2019](https://info.microsoft.com/ww-landing-windows-server-2022.html)
+[Server 2022](https://info.microsoft.com/ww-landing-windows-server-2022.html)
 
 ## Downloaded Windows 11 ISO file
 [Windows 11](https://www.microsoft.com/software-download/windows11)
